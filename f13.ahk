@@ -6,10 +6,11 @@ Exe_File=%In_Dir%\F13.exe
 Execution_Level=4
 [VERSION]
 Set_Version_Info=1
-File_Description=toggles F12 to F13 for push to talk configuration
-File_Version=0.0.0.1
+File_Description=toggles F12 with F13 to config push to talk with a blind key. Start F13.exe and double click on F13.exe icon in system tray or right click them and select F12/F13 outo the menu. The task icon changes from green F12 to red F13 and reversed to show what happens when you press the physical F12 key.
+File_Version=0.0.0.3
 Inc_File_Version=1
 Internal_Name=TexMex
+Legal_Copyright=https://github.com/BNK3R-Boy/F13
 Original_Filename=F13.exe
 Product_Name=F13
 Product_Version=0.0.0.1
