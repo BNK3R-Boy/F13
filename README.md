@@ -8,3 +8,5 @@ How to use:
 - double click on F13.exe icon in system tray or right click them and select F12/F13 outo the menu.
 
 The task icon changes from green F12 to red F13 and reversed to show what happens when you press the physical F12 key.
+
+Compiled with: https://autohotkey.com/board/topic/21189-compile-ahk-ii-for-those-who-compile/
