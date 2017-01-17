@@ -9,4 +9,4 @@ How to use:
 
 The task icon changes from green F12 to red F13 and reversed to show what happens when you press the physical F12 key.
 
-Compiled with: https://autohotkey.com/board/topic/21189-compile-ahk-ii-for-those-who-compile/
+Compiled with: https://github.com/mercury233/compile-ahk/
